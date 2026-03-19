@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+title: "OPPRESSION: Utilizing the Internet's Existing Data for Censorship Circumvention"
+message: "If you use this software, please cite the associated paper listed below."
+
+authors:
+  - family-names: "Zillien"
+    given-names: "Sebastian"
+    orcid: "https://orcid.org/0000-0003-3360-1251"
+  - family-names: "Schmidbauer"
+    given-names: "Tobias"
+    orcid: "https://orcid.org/0000-0001-5912-0857"
+  - family-names: "Kubek"
+    given-names: "Mario"
+    orcid: "https://orcid.org/0000-0003-2641-2065"
+  - family-names: "Keller"
+    given-names: "Jörg"
+    orcid: "https://orcid.org/0000-0003-0303-6140"
+  - family-names: "Wendzel"
+    given-names: "Steffen"
+    orcid: "https://orcid.org/0000-0002-1913-5912"
+
+repository-code: "https://github.com/Stego-Punk-Lab/OPPRESSION"
+url: "https://github.com/Stego-Punk-Lab/OPPRESSION"
+
+version: "1.0.0"
+date-released: 2024-01-07
+
+keywords:
+  - covert channels
+  - censorship circumvention
+  - network security
+  - steganography
+
+preferred-citation:
+  type: conference-paper
+  title: "Look what's there! Utilizing the Internet's existing data for censorship circumvention with OPPRESSION"
+  authors:
+    - family-names: "Zillien"
+      given-names: "Sebastian"
+      orcid: "https://orcid.org/0000-0003-3360-1251"
+    - family-names: "Schmidbauer"
+      given-names: "Tobias"
+      orcid: "https://orcid.org/0000-0001-5912-0857"
+    - family-names: "Kubek"
+      given-names: "Mario"
+      orcid: "https://orcid.org/0000-0003-2641-2065"
+    - family-names: "Keller"
+      given-names: "Jörg"
+      orcid: "https://orcid.org/0000-0003-0303-6140"
+    - family-names: "Wendzel"
+      given-names: "Steffen"
+      orcid: "https://orcid.org/0000-0002-1913-5912"
+  year: 2024
+  doi: "10.1145/3634737.3637676"
+  publisher: "ACM"
+  conference:
+    name: "ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2024)"
